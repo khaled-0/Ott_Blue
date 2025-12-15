@@ -144,7 +144,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: d6b30d2ca7b7ae53217cd7e534a51c4ba87a69b0
+      resolved-ref: "23537d92838b315f2f7c6fff5aef11939fcedb37"
       url: "git@github.com:khaled-0/OTT-PoC-Base.git"
     source: git
     version: "0.0.1"
